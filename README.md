@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I love coding and learning
 - 📫 How to reach me: zaharibakov@gmail.com
 
+![Zahari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahariBakov&count_private=true)
