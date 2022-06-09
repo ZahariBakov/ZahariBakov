@@ -1,4 +1,4 @@
-### Hi there I'm Zahari 👋✋
+### Hi there I'm Zahari 👋
 
 
 - 🔭 I’m currently working on my development
