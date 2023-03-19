@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-  👋 Hi, I'm Zahary and I'm based in Sofia, Bulgaria 🇧🇬<br><br>I am currently working on my programming studies at SoftUni.<br><br>My goal - development of software projects.
+  👋 Hi, I'm Zahary and I'm based in Sofia, Bulgaria 🇧🇬<br><br>I am currently working on my programming education.<br><br>My goal - development of software projects.
 
 
 ## 🌐 Socials:
