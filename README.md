@@ -1,14 +1,14 @@
 
 # 💫 About Me:
-👋 Hello there! I'm Zahary, a passionate learner and aspiring programmer based in the vibrant city of Sofia, Bulgaria 🇧🇬.
+  👋 Hello there! I'm Zahary, a passionate learner and aspiring programmer based in the vibrant city of Sofia, Bulgaria 🇧🇬.
 
-🚀 Currently immersed in the exciting world of programming education, I'm on a mission to master the art of creating innovative software projects. My journey is fueled by fascination from the endless possibilities of coding.
+  🚀 Currently immersed in the exciting world of programming education, I'm on a mission to master the art of creating innovative software projects. My journey is fueled by fascination from the endless possibilities of coding.
 
-🌐 Fluent in the languages of logic and creativity, I specialize in Python and C++. From the elegant simplicity of Python to the raw power of C++, I thrive on the diverse challenges each language presents.
+  🌐 Fluent in the languages of logic and creativity, I specialize in Python and C++. From the elegant simplicity of Python to the raw power of C++, I thrive on the diverse challenges each language presents.
 
-🎓 As I navigate the dynamic landscape of programming, I am dedicated to honing my skills and embracing the challenges that come with it. Whether it's tackling complex algorithms or exploring new technologies, I'm always eager to push my boundaries.
+  🎓 As I navigate the dynamic landscape of programming, I am dedicated to honing my skills and embracing the challenges that come with it. Whether it's tackling complex algorithms or exploring new technologies, I'm always eager to push my boundaries.
 
-🌟 Ultimately, my goal is to contribute to the ever-evolving realm of software development, bringing ideas to life and making a positive impact through technology.
+  🌟 Ultimately, my goal is to contribute to the ever-evolving realm of software development, bringing ideas to life and making a positive impact through technology.
 
 
 ## 🌐 Socials:
