@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-  👋 Hello there! I'm Zahary, a passionate learner and aspiring programmer based in the vibrant city of Sofia, Bulgaria 🇧🇬.
+  👋 Hello there! I'm Zahari, a passionate learner and aspiring programmer based in the vibrant city of Sofia, Bulgaria 🇧🇬.
 
   🚀 Currently immersed in the exciting world of programming education, I'm on a mission to master the art of creating innovative software projects. My journey is fueled by fascination from the endless possibilities of coding.
 
